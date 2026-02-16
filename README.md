@@ -42,3 +42,13 @@ The final model achieved an **$R^2$ score of 0.64**, meaning that 64% of the var
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/flaviuspaun19/student-performance-predictor.git](https://github.com/flaviuspaun19/student-performance-predictor.git)
+
+2. **Run Analysis:**
+   Open the `student_performance_analysis.ipynb` file in VS Code or Jupyter Notebook and execute all cells to reproduce the results and visualizations.
+
+### 📂 Project Structure
+
+* **student_performance_analysis.ipynb**: The core Jupyter Notebook containing Exploratory Data Analysis (EDA), model training, and performance evaluation.
+* **StudentPerformanceFactors.csv**: The primary dataset containing behavioral and academic metrics used for model training.
+* **student.html**: The exported `.html` file of the code.
+* **requirements.txt**: A comprehensive list of Python library versions required to ensure environment reproducibility.
